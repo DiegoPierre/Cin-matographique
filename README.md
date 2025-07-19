@@ -29,7 +29,7 @@ Les résultats aideront le studio à :
 - Réduire les risques grâce aux données
 
   <div style="text-align: center;">
-    <img src="Data/IMDB_ERD.jpeg" width="400">
+    <img src="Images/IMDB_ERD.jpeg" width="400">
     <p style="font-style: italic; color: #7f8c8d;">
     </p>
 </div>
